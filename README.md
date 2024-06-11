@@ -1,2 +1,2 @@
 # ProjectL
-Discord Bot for Smash Ultimate Documentation
+Discord Bot for Luigi Combos
